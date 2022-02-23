@@ -7,7 +7,7 @@ package methodchp4;
 
 /**
  *
- * @author 0404489
+ * @author Wise-XXIV
  */
 public class MethodCHP4 {
 
