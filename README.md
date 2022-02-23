@@ -1,8 +1,9 @@
 # Java-School-Projects
-Java Project files
+Java Project files, nothing more, nothing less 
+~~use netbeans~~
 
 
-## **What is this Repo and What Can i use it for?**
+# **What is this Repo and What Can i use it for?**
 
 **This is a repo for Object-oriented programming class**
 
