@@ -15,9 +15,6 @@ you may use these files for education purposes (but really i do not know what ot
 ```java
 public class NeverGonnaGiveYouUp {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {    
         {
         int aNumber = 10;
@@ -32,7 +29,6 @@ public class NeverGonnaGiveYouUp {
         }
         System.out.println("In outer block aNumber is " + aNumber);
         }
-        // TODO code application logic here
     }
     
 }
