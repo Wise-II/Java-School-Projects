@@ -9,13 +9,28 @@ package employee;
  *
  * @author 0404489
  */
-public class Employee {
+public class Employee { 
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+private int empNum;
+private double empPayRate;
+public void setValues()
+{
+empNum = 111;
+empPayRate = 22.22;
 }
+public void methodThatUsesInstanceAttributes()
+{
+System.out.println("employee number is " + empNum);
+System.out.println("pay rate is " + empPayRate);
+}
+public void methodThatUsesLocalVariables()
+{
+int empNum = 33333;
+double empPayRate = 555.55;
+System.out.println("employee number is " + empNum);
+System.out.println("pay rate is " + empPayRate);
+}
+
+    
+    }
+

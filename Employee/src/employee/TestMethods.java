@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package methodchp4;
+package employee;
 
 /**
  *
- * @author Wise-XXIV
+ * @author 0404489
  */
-public class EmployeeTestMethods {
-    public static void main(String[] args)
+public class TestMethods {
+        public static void main(String[] args)
     {
         Employee Aworker = new Employee();
         Aworker.setValues();
         Aworker.methodThatUsesInstanceAttributes();
         Aworker.methodThatUsesLocalVariables();
-    }        
-}
+ 
+    }}
