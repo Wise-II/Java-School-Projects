@@ -13,7 +13,7 @@ you may use these files for education purposes (but really i do not know what ot
 
 # can i see some of the sample code?
 ```java
-public class MethodCHP4 {
+public class NeverGonnaGiveYouUp {
 
     /**
      * @param args the command line arguments
