@@ -11,10 +11,7 @@ Java project files, nothing more, nothing less
 
 you may use these files for education purposes (but really i do not know what other uses it has ngl)
 
-#can i see some of the sample code?
-Sure!, here you go
-
-
+# can i see some of the sample code?
 ```java
 public class MethodCHP4 {
 
@@ -40,4 +37,4 @@ public class MethodCHP4 {
     
 }
 ```
-do not this was done in netbeans *i wish i used IntelliJDA*
+do note this was done in netbeans *i wish i used IntelliJDA*
