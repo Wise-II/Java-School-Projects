@@ -33,4 +33,4 @@ public class NeverGonnaGiveYouUp {
     
 }
 ```
-do note this was done in netbeans *i wish i used IntelliJDA*
+do note this was done in netbeans ~~*i wish i used IntelliJDA*~~
