@@ -28,3 +28,6 @@ MethodCHP4/manifest.mf
 *.xml
 MethodCHP4/nbproject/project.properties
 MethodCHP4/nbproject/genfiles.properties
+/Employee/nbproject/private/
+*.properties
+*.mf
