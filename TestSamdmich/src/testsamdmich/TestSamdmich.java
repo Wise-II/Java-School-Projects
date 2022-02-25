@@ -15,7 +15,22 @@ public class TestSamdmich {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        SandwichFilling af1 = new SandwichFilling("egg salad", 220);
+        SandwichFilling af2 = new SandwichFilling("Ham", 240);
+        SandwichFilling af3 = new SandwichFilling("Turkey", 280);
+        
+        display(af1);
+        display(af2);
+        display(af3);
+        
+    }
+     public static void display(SandwichFilling);
+     static {
+         System.out.println("The "+ GetSandwichFilling + "filling has"
+                 + GetCalories + "calories")
+             
+        
+        
     }
     
 }
