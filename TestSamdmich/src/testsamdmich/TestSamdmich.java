@@ -3,21 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package demoyoudoit;
+package testsamdmich;
 
 /**
  *
  * @author 0404489
  */
-public class DemoYouDoIt {
+public class TestSamdmich {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int x = 8888, y = 9999;
-        
-                
+        // TODO code application logic here
     }
     
 }
