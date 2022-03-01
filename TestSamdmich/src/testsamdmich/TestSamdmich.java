@@ -24,10 +24,10 @@ public class TestSamdmich {
         display(af3);
         
     }
-     public static void display(SandwichFilling);
-     static {
-         System.out.println("The "+ GetSandwichFilling + "filling has"
-                 + GetCalories + "calories")
+     public static void display(SandwichFilling e)
+     {
+         System.out.println("The "+ e.GetSandwichfilling() + " filling has " + e.GetCalories() + " calories ");
+                 
              
         
         

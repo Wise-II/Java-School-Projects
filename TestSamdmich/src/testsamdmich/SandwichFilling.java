@@ -10,24 +10,24 @@ package testsamdmich;
  * @author 0404489
  */
 public class SandwichFilling{ 
-    private final String filling;
-    private final int calories;
-    public SandwichFilling(String fill, int cal);
+         String filling;
+           int calories;
+    SandwichFilling(String fill, int cal)
     {
         filling = fill;
         calories = cal;
     }    
-    public String GetSandwichfilling;
-            {
+    public String GetSandwichfilling(){
+        
                 return filling;
                         
-             }            
-    public int GetCalories;
-            }
+        
+           }            
+    public int GetCalories()
+    {
                 return calories;
 
-                }
+                
 
-    }
-    
+    } 
 }
