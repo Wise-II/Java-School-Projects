@@ -37,3 +37,6 @@ MethodCHP4/nbproject/genfiles.properties
 /TestSamdmich/nbproject/private/
 /TestSamdmich/build/
 /TestSamdmich/dist/
+*.sqlite
+.vs/Java-School-Projects/v17/.suo
+*.json

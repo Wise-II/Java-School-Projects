@@ -7,7 +7,7 @@ package employee;
 
 /**
  *
- * @author 0404489
+ * @author diego
  */
 public class Employee { 
 
