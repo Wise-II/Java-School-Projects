@@ -1,19 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package methodchp4;
 
-/**
- *
- * @author Wise-XXIV
- */
 public class MethodCHP4 {
 
-    /**
-     * @param args the command line arguments
-     */
+    // * @param args the command line arguments
     public static void main(String[] args) {    
         {
         int aNumber = 10;
@@ -28,7 +18,6 @@ public class MethodCHP4 {
         }
         System.out.println("In outer block aNumber is " + aNumber);
         }
-        // TODO code application logic here
     }
     
 }
